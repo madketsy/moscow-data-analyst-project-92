@@ -1,0 +1,3 @@
+select 
+   Count(c.customer_id) as customers_count
+from customers c 
